@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id = "mycarousel" class="carousel slide" data-ride = "carousel">
+
+    <ol class = "carousel-indicators">
+        <li data-target="#mycarousel" data-slide-to = "0" style="background-size:cover"></li>
+        <li data-target="#mycarousel" data-slide-to="1" style="background-size:cover"></li>
+        <li data-target="#mycarousel" data-slide-to="2" style="background-size:cover"></li>    
+    </ol>
+
+    <div class = "carousel-inner" role = "listbox">
+
+        <div class = "item active">
+            <!-- <img src="~/Content/Images/imob.jpg" width="100%"/>-->
+            <img src="https://odis.homeaway.com/odis/listing/8aa0f4ca-a362-4c80-91b5-4656f802678c.c10.jpg" width="100%" height="100%"/>
+            <div class = "carousel-caption">
+
+            </div>
+        </div>
+
+        <div class="item" style="background-size:cover">
+            <!--<img src="~/Content/Images/casa1.jpg" width="100%" height="100%"/>-->
+            <img src="https://odis.homeaway.com/odis/listing/9274d074-8e5b-4ecf-b2b9-8241b730538e.c10.jpg" width="100%" height="100%"/>
+            <div class="carousel-caption">
+
+            </div>
+        </div>
+
+        <div class="item" style="background-size:cover">
+            <!--<img src="~/Content/Images/casa2.JPG" width="100%" />-->
+            <img src="https://odis.homeaway.com/odis/listing/1727f0c8-379f-4636-a30c-51e39fef44a6.c10.jpg" width="100%" height="100%" />
+            <div class="carousel-caption">
+
+            </div>
+        </div>
+    </div>
+
+    <a class = "left carousel-control" href = "#mycarousel" role = "button" data-slide = "prev">
+       <span class = "glyphicon glyphicon-chevron-left" aria-hidden = "true"></span>
+        <span class = "sr-only">Anterior</span>
+    </a>
+
+    <a class="right carousel-control" href="#mycarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Proximo</span>
+    </a>
+    
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Alugue ou Compre</h2>
+        <p>
+            Alugue ou compre uma casa, apartamento ou prédio na imobiliáira J.K. Atendemos em toda  Araucária, Fazenda Rio Grande, Contenda e Campo Largo.
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Quem Somos</h2>
+        <p>A imobiliária J.K já está no ramo desde 1983. Com 15 prêmios em excelência e 5 anos consecutivos como melhor imobiliária.
+        Se você ficar satisfeito com nosso serviço, então fique a vontade para nos contratar </p>
+        <p><a class="btn btn-default" href="http://localhost:51697/Home/Contact"> Contato&raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Notícias</h2>
+        <p>Mais notícias sobre o mercado imobiliário, acesse a revista Exame.</p>
+        <p><a class="btn btn-default" href="http://exame.abril.com.br/noticias-sobre/mercado-imobiliario/">Noticias &raquo;</a></p>
+    </div>
+</div>

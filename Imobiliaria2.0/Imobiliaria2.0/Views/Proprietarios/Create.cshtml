@@ -1,0 +1,29 @@
+﻿@model Imobiliaria2._0.Models.Proprietario
+
+@{
+    ViewBag.Title = "Adicionar Propietario";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    
+    @*
+    @Html.LabelFor(m => Model.Nome);
+    @Html.EditorFor(m => Model.Nome);
+    @Html.ValidationMessageFor(m => Model.Nome);
+
+    @Html.LabelFor(m => Model.Descricao);
+    @Html.EditorFor(m => Model.Descricao);
+    @Html.ValidationMessageFor(m => Model.Descricao);
+
+    @Html.EditorFor(m => Model.Ativo);
+    @Html.LabelFor(m => Model.Ativo);
+    *@
+    
+    @Html.EditorForModel()
+
+    <input type="submit" value="Adicionar" class="btn btn-primary"/>
+}
+

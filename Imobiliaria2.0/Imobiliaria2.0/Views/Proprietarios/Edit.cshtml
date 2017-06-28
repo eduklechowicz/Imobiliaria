@@ -1,0 +1,75 @@
+﻿@model Imobiliaria2._0.Models.Proprietario
+
+@{
+    ViewBag.Title = "Editar Proprietario";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.HiddenFor(m => Model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(m => Model.Nome)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Endereco, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.Endereco)
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Rg, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.Rg)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Cpf, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.Cpf)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.Telefone)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.MatriculaImovel, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.MatriculaImovel)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.InscricaoImovel, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(m => Model.InscricaoImovel)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => Model.Ativo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(m => Model.Ativo)
+                </div>
+            </div>
+        </div>
+        <input type="submit" value="Salvar Alterações" class="btn btn-primary" />
+    </div>
+}

@@ -1,0 +1,345 @@
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\ApplicationInsights.config
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\csc.exe
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Collections.Immutable.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\vbc.exe
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe.config
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll.config
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.pdb
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Web.Infrastructure.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Owin.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\WebGrease.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.pdb
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.dll
+E:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.pdb
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\ApplicationInsights.config
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\csc.exe
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Collections.Immutable.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Reflection.Metadata.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\vbc.exe
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe.config
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll.config
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.pdb
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Agent.Intercept.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Web.Infrastructure.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Owin.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\WebGrease.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.pdb
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csprojResolveAssemblyReference.cache
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.dll
+J:\Desenvolvimento Em Asp.Net (Visual Studio 2013)\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.pdb
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\ApplicationInsights.config
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\csc.exe
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Collections.Immutable.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Reflection.Metadata.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\vbc.exe
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe.config
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll.config
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.pdb
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Agent.Intercept.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Web.Infrastructure.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Owin.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\WebGrease.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.pdb
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csprojResolveAssemblyReference.cache
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.pdb
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2._0.Migrations.InitialCreate.resources
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csproj.GenerateResource.Cache
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Helpers.resources.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Mvc.resources.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Razor.resources.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.resources.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+J:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\ApplicationInsights.config
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\csc.exe
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Collections.Immutable.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\System.Reflection.Metadata.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\vbc.exe
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\roslyn\VBCSCompiler.exe.config
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll.config
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Imobiliaria2.0.pdb
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Web.Infrastructure.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Owin.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\WebGrease.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.DependencyCollector.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.Web.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AI.WindowsServer.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.ApplicationInsights.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Helpers.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Mvc.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Optimization.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.Razor.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Deployment.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\System.Web.WebPages.Razor.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Antlr3.Runtime.pdb
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Newtonsoft.Json.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\EntityFramework.SqlServer.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Google.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.Razor.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2._0.Migrations.InitialCreate.resources
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csproj.GenerateResource.Cache
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.dll
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.pdb
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2.0.csprojResolveAssemblyReference.cache
+E:\Imobiliaria\Imobiliaria2.0\Imobiliaria2.0\obj\Debug\Imobiliaria2._0.Migrations.AdicionandoSituacaoPropriedade.resources

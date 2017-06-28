@@ -1,0 +1,39 @@
+﻿@model Imobiliaria2._0.Models.Proprietario
+
+@{
+    ViewBag.Title = "Excluir Proprietario";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h2>Você Tem Certeza Que Deseja Excluir O Item A Seguir?</h2>
+
+@Html.LabelFor(m => Model.Nome)
+@Html.DisplayFor(m => Model.Nome)
+
+@Html.LabelFor(m => Model.Endereco)
+@Html.DisplayFor(m => Model.Endereco)
+
+@Html.LabelFor(m => Model.Rg)
+@Html.DisplayFor(m => Model.Rg)
+
+@Html.LabelFor(m => Model.Cpf)
+@Html.DisplayFor(m => Model.Cpf)
+
+@Html.LabelFor(m => Model.Telefone)
+@Html.DisplayFor(m => Model.Telefone)
+
+@Html.LabelFor(m => Model.MatriculaImovel)
+@Html.DisplayFor(m => Model.MatriculaImovel)
+
+@Html.LabelFor(m => Model.InscricaoImovel)
+@Html.DisplayFor(m => Model.InscricaoImovel)
+
+@Html.LabelFor(m => Model.Ativo)
+@Html.DisplayFor(m => Model.Ativo)
+
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Excluir" class="btn btn-primary" />
+}
+

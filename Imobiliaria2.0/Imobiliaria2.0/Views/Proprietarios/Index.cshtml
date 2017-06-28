@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Imobiliaria2._0.Models.Proprietario>
+
+    @{
+        ViewBag.Title = "Proprietarios";
+    }
+
+    <h2>@ViewBag.Title</h2>
+
+    @if (TempData["Mensagem"] != null)
+    {
+        <p class="alert-info">@ViewBag.Mensagem</p>
+    }
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.LabelFor(m => item.Nome)
+                @Html.DisplayFor(m => item.Nome)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.Endereco)
+                @Html.DisplayFor(m => item.Endereco)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.Rg)
+                @Html.DisplayFor(m => item.Rg)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.Cpf)
+                @Html.DisplayFor(m => item.Cpf)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.Telefone)
+                @Html.DisplayFor(m => item.Telefone)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.MatriculaImovel)
+                @Html.DisplayFor(m => item.MatriculaImovel)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.InscricaoImovel)
+                @Html.DisplayFor(m => item.InscricaoImovel)
+            </td>
+            <td>
+                @Html.LabelFor(m => item.Ativo)
+                @Html.DisplayFor(m => item.Ativo)            
+            </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id = item.Id })
+        </td>
+       </tr>
+
+    }
+</table>
+
